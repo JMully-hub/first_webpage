@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; 
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgb(78, 82, 78);
+    }
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+p, #allin1 {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+    list-style-position: inside;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(10, 10, 10);
+    text-shadow: 2px 2px 1px grey;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
